@@ -4,6 +4,11 @@
 
 This is a comprehensive large-scale domain-adaptation causal sentence dataset to detect financial performance changes of corporate.
 
+(See paper for details, this will be uploaded soon.)
+
+## Tutorial
+This will be uploaded soon.
+
 ## License
 [Apache License 2.0](https://github.com/CR-COPEC/CR-COPEC/blob/main/LICENSE)
 
