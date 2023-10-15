@@ -1,12 +1,13 @@
 # Dataset
 
-CR-COPEC: Causal Rationale of COrporate PErformance Changes
+**CR-COPEC: Causal Rationale of COrporate PErformance Changes
+
 This is a comprehensive large-scale domain-adaptation causal sentence dataset to detect financial performance changes of corporate.
 
 ## License
 [Apache License 2.0]()
 
-# XAI Project 
+## XAI Project 
 
 **These works were supported by Institute for Information & Communications Technology Promotion (IITP) grant funded by the Korea government (MSIT) (No.2017-0-01779, A machine learning and statistical inference framework for explainable artificial intelligence)**
 
