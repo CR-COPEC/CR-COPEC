@@ -12,13 +12,13 @@ This will be uploaded soon.
 ## Citation
 If you use CR-COPEC in your research we would appreciate a citation to the paper below.
 
-'''
+```
 @inproceedings{Chun2023CRCOPEC,
     title   = {CR-COPEC: Causal Rationale of Corporate Performance Changes to learn from Financial Reports},
     author  = {Ye Eun Chun, Sunjae Kwon, Kyunghwan Sohn, Nakwon Sung, Junyoup Lee, Byoung Ki Seo, Kevin Compher, Seung-won Hwang and Jaesik Choi},
     year    = {2023}
 }
-'''
+```
 
 ## License
 [Apache License 2.0](https://github.com/CR-COPEC/CR-COPEC/blob/main/LICENSE)
