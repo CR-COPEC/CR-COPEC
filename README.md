@@ -5,9 +5,15 @@
 This is a comprehensive large-scale domain-adaptation causal sentence dataset to detect financial performance changes of corporate.
 
 (The paper link will be uploaded soon.)
-
-## Tutorial
+  
+## Usage
 This will be uploaded soon.
+
+## Citation
+If you use CR-COPEC in your research we would appreciate a citation to the paper below.
+
+Title: CR-COPEC: Causal Rationale of Corporate Performance Changes to learn from Financial Reports, Findings of EMNLP, 2023
+Authors: Ye Eun Chun, Sunjae Kwon, Kyunghwan Sohn, Nakwon Sung, Junyoup Lee, Byoung Ki Seo, Kevin Compher, Seung-won Hwang and Jaesik Choi
 
 ## License
 [Apache License 2.0](https://github.com/CR-COPEC/CR-COPEC/blob/main/LICENSE)
