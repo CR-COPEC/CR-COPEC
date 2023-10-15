@@ -13,6 +13,7 @@ This will be uploaded soon.
 If you use CR-COPEC in your research we would appreciate a citation to the paper below.
 
 **Title: CR-COPEC: Causal Rationale of Corporate Performance Changes to learn from Financial Reports, Findings of EMNLP, 2023**
+
 Authors: Ye Eun Chun, Sunjae Kwon, Kyunghwan Sohn, Nakwon Sung, Junyoup Lee, Byoung Ki Seo, Kevin Compher, Seung-won Hwang and Jaesik Choi
 
 ## License
