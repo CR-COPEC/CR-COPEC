@@ -1,6 +1,6 @@
 # Dataset
 
-**CR-COPEC: Causal Rationale of COrporate PErformance Changes**
+**CR-COPEC:** **C**ausal **R**ationale of **CO**rporate **PE**rformance **C**hanges**
 
 This is a comprehensive large-scale domain-adaptation causal sentence dataset to detect financial performance changes of corporate.
 
