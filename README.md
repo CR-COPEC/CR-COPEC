@@ -4,8 +4,9 @@
 
 This is a comprehensive large-scale domain-adaptation causal sentence dataset to detect financial performance changes of corporate.
 
-Paper link: https://arxiv.org/abs/2310.16095
-  
+Paper link: https://arxiv.org/abs/2310.16095 
+(Accepted in Findings of EMNLP 2023)
+ 
 ## Usage
 This will be uploaded soon.
 
